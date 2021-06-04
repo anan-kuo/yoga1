@@ -94,21 +94,22 @@ p a:hover {
 }
 
 #header ul#navigation li a {
-	color: #b6d8cf;
+	color: #4afac8;
 	font-size: 18px;
 	padding: 0 46px;
 	text-align: center;
 	text-decoration: none;
 	text-transform: uppercase;
+	font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
 }
 
 #header ul#navigation li a:hover,
 #header ul#navigation li.current ul li a:hover {
-	color: #d3a3ff;
+	color: #fa17b6;
 }
 
 #header ul#navigation li.current a {
-	color: #99fa99;
+	color: #b8c419;
 }
 
 #header ul#navigation li ul {
@@ -126,7 +127,7 @@ p a:hover {
 }
 
 #header ul#navigation li ul li {
-	background: #077054;
+	background: #e06f23;
 	display: block;
 	height: 46px;
 	line-height: 46px;
